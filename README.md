@@ -57,3 +57,5 @@ _____ 株式会社人口知能ロボット研究所 _____    ![008](/pics-main/i
 > 
 > [grip – ReadmeのようなGitHub Markdownファイルをコミットする前にプレビュー](https://githubja.com/joeyespo/grip)
 > 
+> [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
+> 
